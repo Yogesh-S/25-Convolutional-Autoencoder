@@ -12,5 +12,5 @@ A compressed representation can be great for saving and sharing any kind of data
 
 ![alt text](https://github.com/Yogesh-S/25-Convolutional-Autoencoder/blob/main/denoising.png?raw=true)
 
-In this notebook, let us build a convolutional autoencoder to compress the MNIST dataset using the architecture shown below.
+In this notebook, let us build a convolutional autoencoder (with Transpose Convolutions in the decoder) to compress the MNIST dataset using the architecture shown below.
 ![alt text](https://github.com/Yogesh-S/25-Convolutional-Autoencoder/blob/main/conv_enc_1.png?raw=true)
